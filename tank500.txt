@@ -1,0 +1,9 @@
+Tank-500
+
+ID 0x137:
+
+_data[40] = speedometer checksum
+_data[41] = vehicle speed
+_data[42] = vehicle speed
+_data[43] = dashboard odo
+_data[44] = dashboard odo
